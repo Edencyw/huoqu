@@ -1,0 +1,34 @@
+{
+  "pages":[
+    "pages/list/list",
+    "pages/index/index",
+    "pages/suiji/suiji",
+    "pages/mac/mac" 
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#5b6b3c",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#efefef"
+  },
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/list/list",
+      "text": "次页"
+    },
+    {
+      "pagePath": "pages/suiji/suiji",
+      "text": "随机颜色"
+    }
+  ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

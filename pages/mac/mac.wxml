@@ -1,0 +1,3 @@
+<!--pages/mac/mac.wxml-->
+<text>pages/mac/mac.wxml</text>
+<button type="warn" bindtap="houtui">后退</button>

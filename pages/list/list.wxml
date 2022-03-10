@@ -1,0 +1,2 @@
+<button bindtap="qinqiu" type="primary">测试发起网络</button>
+<button bindtap="bianc" type="primary">编程式导航</button>

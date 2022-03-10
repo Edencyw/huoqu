@@ -1,0 +1,6 @@
+/* pages/suiji/suiji.wxss */
+.num-item{
+    border: 1rpx solid red;
+    border-radius: 8rpx;
+    line-height: 200rpx;
+}

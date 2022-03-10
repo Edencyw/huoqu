@@ -1,0 +1,6 @@
+.inputcss{
+    border: 1px solid red;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px;
+}
